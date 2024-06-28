@@ -1,0 +1,9 @@
+@font-face {
+    font-family: font-two;
+    src: url(../fonts/RubikMarkerHatch-Regular.ttf);
+}
+@font-face {
+    font-family: font-one;
+    src: url(../fonts/Cairo-VariableFont_wght.ttf);
+}
+
